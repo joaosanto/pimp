@@ -35,7 +35,19 @@ pimp
 
 	git diff
 	git diff --cached
+	
+#### Fazer sync com o repositorio
+	git pull <repo> master
+	
+#### Ver branch uma versão local
+	git branch
 
-#### Criar uma versão local
-	git brach
+#### Fazer um clone
+	git clone <repo> master
+	
+#### 
+	git checkout <branch>
+	
+	git merge master
+	
 
