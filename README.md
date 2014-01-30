@@ -22,7 +22,6 @@ pimp
 #### adicionar ficheiros para commit
 
 	git add . 
-
 	git add file.txt
 #### dizer o que faz o que acabamos de adicionar
 
@@ -30,12 +29,12 @@ pimp
 #### ver o log do que acabamos de fazer commit
 
 	git log
+	git log --oneline
+	
 #### diferenças
 
 	git diff
-
 	git diff --cached
-#### ver todos os commits
 
-	git log --oneline
+
 
