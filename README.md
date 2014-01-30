@@ -51,7 +51,7 @@ a pouco 13h35 olá Jon
 #### Fazer um clone
 	git clone <repo> master
 	
-#### 
+#### Mudar de Branch
 	git checkout <branch>
 	
 	git merge master
