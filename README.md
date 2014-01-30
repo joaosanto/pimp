@@ -36,5 +36,6 @@ pimp
 	git diff
 	git diff --cached
 
-
+#### Criar uma versão local
+	git brach
 
